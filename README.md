@@ -19,6 +19,26 @@
 
 
 
+## ⚙️ Installation
+
+### 1️⃣ Cloner le dépôt
+```bash
+git clone https://github.com/ton-repo/DarkDeku225.git
+cd DarkDeku225
+```
+
+### 2️⃣ Installer les dépendances
+```bash
+npm install
+```
+
+### 3️⃣ Lancer le bot
+```bash
+node index.js
+```
+
+
+
 <p align="center">
   <strong>Développé avec ❤️ par DarkDeku225</strong><br>
   <a href="https://t.me/DarkDeku225">Telegram</a> • 
