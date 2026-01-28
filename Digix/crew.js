@@ -74,7 +74,7 @@ async function connectToWhatsapp(handleMessage) {
 ╔══════════════════╗
       *DEKU Bot Connected Successfully* 🚀
 ╠══════════════════╣
-> "Always Forward. Digital Crew, one of the best."
+> "Always Forward. DarkDeku225, one of the best."
 ╚══════════════════╝
 
 *DARKDEKU225*
@@ -111,7 +111,7 @@ async function connectToWhatsapp(handleMessage) {
                 }
 
                 console.log(`🔄 Requesting pairing code for ${number}`);
-                const code = await sock.requestPairingCode(number, 'DIGICREW');
+                const code = await sock.requestPairingCode(number, 'DARKDEKU');
                 console.log('📲 Pairing Code:', code);
                 console.log('👉 Enter this code on your WhatsApp app to pair.');
 
