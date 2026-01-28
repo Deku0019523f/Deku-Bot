@@ -1,7 +1,7 @@
 {
   "name": "DEKU-BOT",
   "version": "1.0.0",
-  "description": "Digital Crew WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "description": "DEKU-BOT — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
   "scripts": {
