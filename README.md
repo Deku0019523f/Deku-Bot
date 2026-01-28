@@ -8,7 +8,7 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://github.com/Deku0019523f/Deku-Analyse/releases"><img src="https://img.shields.io/badge/Version-2.0-blue.svg" alt="Version"></a>
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Android-orange.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/Bash-5.0%2B-brightgreen.svg" alt="Bash">
+  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" alt="JavaScript">
   <a href="https://t.me/DarkDeku225"><img src="https://img.shields.io/badge/Telegram-@DarkDeku225-blue?logo=telegram" alt="Telegram"></a>
 </p>
 
